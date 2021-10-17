@@ -1,2 +1,2 @@
 # Matrix-Multiplication
-This repository conatins the code for matrix multiplication.
+This repository contains the code for matrix multiplication.
